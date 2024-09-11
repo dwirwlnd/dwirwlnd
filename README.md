@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm **Dwi Rahayu Wulanida**, you can call me **Dwi**
+I'm **Dwi Rahayu Wulanida**, or you can call me **Dwi**🐼
 
 🌱 I’m currently learning about *Machine Learning* at **Bangkit Academy 2024 Batch 2**💖!!!
 
-I'm interested in ✨Data Analyst, Data Science and Computing✨
+I'm interested in ✨**Data Analyst, Data Science and Computing**✨
 
 🔭 I’m currently working on final project that combining *Machine Learning* and *Android Application* to **predict movement of drowning victims in rivers.🌊**
 
